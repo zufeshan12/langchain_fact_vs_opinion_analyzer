@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "evidence",
+        "statement"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Analyze the given statement.Also analyze the provided evidence.Do not forget to display the urls in the provided evidence.Statement:{statement}\n Supporting Evidence: {evidence}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

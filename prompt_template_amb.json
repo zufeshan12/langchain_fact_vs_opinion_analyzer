@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "statement"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Ask a clarifying question for the following statement\n {statement}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
